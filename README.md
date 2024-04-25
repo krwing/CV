@@ -1,0 +1,1 @@
+Due to the large size of the pre training weight file of the model, it cannot be pushed to the GitHub repository，so, before implement, need to download .pt file for models and pretrained weight file for models in models file and pretrained file.
